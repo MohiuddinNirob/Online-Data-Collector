@@ -3,7 +3,7 @@ User Manual
 ### Online Data Collector
 
 ###
-This software let’s the user fetch data from facebook and twitter and let's the user preprocess the data and apply some queries on the data.. 
+This software lets the user fetch data from facebook and twitter and lets the user preprocess the data and apply some queries on the data.. 
 From facebook, the data can be downloaded from any public page or group. From twitter, the data is fetched based on hashtag.
 
 
